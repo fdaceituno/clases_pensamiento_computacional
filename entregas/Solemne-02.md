@@ -1,5 +1,5 @@
 # Solemne-02
-
+https://editor.p5js.org/fda.aceituno/sketches/NcR_99uHR
 ## Integrantes del grupo
 
 - (Fernanda Aceituno) [fdaceituno](https://github.com/fdaceituno)
@@ -22,7 +22,7 @@
 6. ¿Quién mató a Marilyn?
 7. Paramar
 8. No necesitamos banderas
-9. Mentelidad televisiva
+9. Mentalidad televisiva
 10. Nunca quedas mal con nadie
 ```
 
@@ -35,8 +35,8 @@
 
 ## Conclusión del proceso
 
-- Creo que pude expresar lo que quería, que era la relación con la crítica, alzar la voz, manifestarse
-- Aunque también pienso que pudo haber estado mucho más potenciado y en ese sentido haber sido mejor utilizando más elementos/ruido
+- Creo que pude expresar lo que quería, que era la relación de la cuidad viva con la crítica, alzar la voz, manifestarse
+- Aunque también pienso que pudo haber estado mucho más potenciado y en ese sentido, utilizando más elementos/ruido
 - Sin embargo, también pude explorar un poco más con movimientos simultáneos que se pueden hacer
 
 ## Explicación del código (3 aspectos)
