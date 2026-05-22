@@ -6,7 +6,7 @@
 
 ## Descripción del disco
 
-![Portada de álbum xxxx yyyy](./img/cover.jpg)
+![Portada de álbum La Voz de los ´80](los80.png)
 
 - (La voz de los ´80)
 - 1984
