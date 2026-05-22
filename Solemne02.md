@@ -1,8 +1,8 @@
-# Plantilla para solemne-02
+# Solemne-02
 
 ## Integrantes del grupo
 
-- (Fernanda Aceituno) [fdaceituno](https://github.com/cuentaGithub)
+- (Fernanda Aceituno) [fdaceituno](https://github.com/fdaceituno)
 
 ## Descripción del disco
 
@@ -35,10 +35,9 @@
 
 ## Conclusión del proceso
 
-- Creo que pude expresar lo que quería, que era la relación con la crítica, alzar la voz,
-- manifestarse, pero también pienso que pudo haber estado mucho más potenciado y en ese sentido
-- haber sido mejor utilizando más elementos/ruido
-- Pero también pude explorar un poco más con movimientos simultáneos que se pueden hacer
+- Creo que pude expresar lo que quería, que era la relación con la crítica, alzar la voz, manifestarse
+- Aunque también pienso que pudo haber estado mucho más potenciado y en ese sentido haber sido mejor utilizando más elementos/ruido
+- Sin embargo, también pude explorar un poco más con movimientos simultáneos que se pueden hacer
 
 ## Explicación del código (3 aspectos)
 
@@ -76,7 +75,7 @@ del eje y, solo se pone yPuno, ya que anteriormente ya fue determinado
     arriba=false;
   }
 
-Aquí en frameCount también se relaiona con la veloidad, pero de un movimiento
+Aquí en frameCount también se relaiona con la veloCidad, pero de un movimiento
 en dos posiciones determinadas, y angulo=(radians(x), x está indicando la rotación de la misma
 imagen pero en dos posiciones distintass
 ```
